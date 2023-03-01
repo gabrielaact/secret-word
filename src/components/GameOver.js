@@ -9,4 +9,4 @@ const Game = ({ retry }) => {
   )
 }
 
-export default Game
+export default Game 
